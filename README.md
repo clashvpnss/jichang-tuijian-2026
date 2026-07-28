@@ -1,7 +1,45 @@
-# 机场选购与排错知识库
+# 机场推荐 2026 · Clash 机场选购清单与排错知识库
 
-科学上网客户端的报错排查、机场选购判断，以及线路与协议术语的原理说明。
-共 **266 条问答** 与 **10 个术语词条**，全部为纯文本，可直接搜索、可 fork、可提 issue 补充。
+22 家机场的**公示规格横向对比**（价格 / 线路类型 / 协议），
+外加 **266 条问答**与 **10 个术语词条**的选购排错资料。
+全部纯文本，可搜索、可 fork、可提 issue 补充。
+
+> **和其他机场推荐榜单的区别：这里没有一个实测数字。**
+> 延迟、带宽、解锁率这类结果依赖测试时间、本地带宽和当时负载，无法复现，
+> 因此本清单只列运营方公示的规格，并给出你自己验证的方法。详见[关于准确性](#关于准确性)。
+
+## 机场对比清单
+
+| # | 机场 | 官方标称起价 | 线路类型 | 协议 |
+| --- | --- | --- | --- | --- |
+| 1 | [飞猫云](https://www.clashmetahub.com/reviews/flycat/) | 7 元起 | IEPL 专线直连 | Trojan / SS |
+| 2 | [星岛梦](https://www.clashmetahub.com/reviews/seedream-2/) | 8 元起 | 双线接入专线 | Shadowsocks / Trojan |
+| 3 | [一翻云](https://www.clashmetahub.com/reviews/brand-24/) | 20 元起 | IEPL 专线（官方标称） | VLESS |
+| 4 | [光速云](https://www.clashmetahub.com/reviews/guangsu-15/) | 21.3 元起 | 双线接入专线 | SS / Trojan |
+| 5 | [全球云](https://www.clashmetahub.com/reviews/quanqiu-18/) | 26.2 元起 | IEPL 专线直连 | Shadowsocks / Trojan |
+| 6 | [U1S1](https://www.clashmetahub.com/reviews/u1s1-22/) | 22.1 元起 | BGP 国内中转 | Vmess / Trojan |
+| 7 | [唯兔云](https://www.clashmetahub.com/reviews/brand-17/) | 14.9 元起 | 公网中转 / 优化 | ShadowsocksR / VMess |
+| 8 | [极连云](https://www.clashmetahub.com/reviews/brand-19/) | 18.0 元起 | 公网中转 / 优化 | Shadowsocks / Trojan |
+| 9 | [sogo云](https://www.clashmetahub.com/reviews/sogo-28/) | 18.0 元起 | BGP 入口专线 | V2Ray / Vless |
+| 10 | [光年梯](https://www.clashmetahub.com/reviews/brand-20/) | 19.9 元起 | 纯内网 IPLC 专线 | ShadowsocksR / VMess |
+| 11 | [可信云](https://www.clashmetahub.com/reviews/brand-21/) | 25.0 元起 | BGP 中转 / IPLC | V2Ray / Vless |
+| 12 | [快狸](https://www.clashmetahub.com/reviews/brand-27/) | 28.9 元起 | 纯内网 IPLC 专线 | Hysteria2 / TUIC |
+| 13 | [二猫云](https://www.clashmetahub.com/reviews/brand-30/) | 22.0 元起 | 公网中转 / 优化 | Hysteria2 / TUIC |
+| 14 | [宇宙云](https://www.clashmetahub.com/reviews/brand-25/) | 30.0 元起 | 公网中转 / 优化 | Hysteria2 / TUIC |
+| 15 | [edgenova](https://www.clashmetahub.com/reviews/brand-26/) | 12.0 元起 | 纯内网 IPLC 专线 | Hysteria2 / TUIC |
+| 16 | [速界](https://www.clashmetahub.com/reviews/brand-29/) | 15.0 元起 | BGP 中转 / IPLC | V2Ray / SSR |
+| 17 | [快雷GO](https://www.clashmetahub.com/reviews/kuailei-go/) | 20 元起 | 海外专线（官方标称） | 官方未标注 |
+| 18 | [山水云](https://www.clashmetahub.com/reviews/shanshuicloud-45/) | 18.0 元起 | 优质直连公网 | Vmess |
+| 19 | [万象加速](https://www.clashmetahub.com/reviews/wanxiang/) | 见官网 | CN2 / CUII / CMI 优化线路（官方标称） | 官方未标注 |
+| 20 | [WgetCloud](https://www.clashmetahub.com/reviews/wgetcloud-5/) | 28.0 元起 | 多机房集群负载（官网未标注专线类型） | Trojan |
+| 21 | [MDSS Cloud](https://www.clashmetahub.com/reviews/mdss-cloud-8/) | 12.0 元起 | 纯内网 IPLC 专线 | ShadowsocksR / VMess |
+| 22 | [FlowerCloud (花云)](https://www.clashmetahub.com/reviews/flowercloud/) | 25.0 元起 | BGP 入口专线 | Trojan / SSR |
+
+网页版支持按价格、线路、协议筛选：https://www.clashmetahub.com/compare/
+
+**表中每一项都是运营方官网公示的内容**，不是测试结果。
+线路类型（IEPL / IPLC / 中转 / 直连）可以用 `BestTrace` 或 `mtr` 路由追踪自行核实——
+标称专线但路由里出现公网跳数的，说明标称与实际不符。
 
 ## 这份资料解决什么问题
 
