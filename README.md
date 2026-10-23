@@ -12,28 +12,30 @@
 
 | # | 机场 | 官方标称起价 | 线路类型 | 协议 |
 | --- | --- | --- | --- | --- |
-| 1 | [飞猫云](https://www.clashmetahub.net/reviews/flycat/) | 7 元起 | IEPL 专线直连 | Trojan / SS |
-| 2 | [星岛梦](https://www.clashmetahub.net/reviews/seedream-2/) | 8 元起 | 双线接入专线 | Shadowsocks / Trojan |
+| 1 | [飞猫云](https://www.clashmetahub.net/reviews/flycat/) | 25 元起 | IEPL 专线直连 | Trojan / SS |
+| 2 | [星岛梦](https://www.clashmetahub.net/reviews/seedream-2/) | 25 元起 | 双线接入专线 | Shadowsocks / Trojan |
 | 3 | [一翻云](https://www.clashmetahub.net/reviews/brand-24/) | 20 元起 | IEPL 专线（官方标称） | VLESS |
-| 4 | [光速云](https://www.clashmetahub.net/reviews/guangsu-15/) | 21.3 元起 | 双线接入专线 | SS / Trojan |
-| 5 | [全球云](https://www.clashmetahub.net/reviews/quanqiu-18/) | 26.2 元起 | IEPL 专线直连 | Shadowsocks / Trojan |
-| 6 | [U1S1](https://www.clashmetahub.net/reviews/u1s1-22/) | 22.1 元起 | BGP 国内中转 | Vmess / Trojan |
-| 7 | [唯兔云](https://www.clashmetahub.net/reviews/brand-17/) | 14.9 元起 | 公网中转 / 优化 | ShadowsocksR / VMess |
+| 4 | [光速云](https://www.clashmetahub.net/reviews/guangsu-15/) | 17 元起 | 双线接入专线 | SS / Trojan |
+| 5 | [全球云](https://www.clashmetahub.net/reviews/quanqiu-18/) | 20 元起 | IEPL 专线直连 | Shadowsocks / Trojan |
+| 6 | [U1S1](https://www.clashmetahub.net/reviews/u1s1-22/) | 20 元起 | BGP 国内中转 | Vmess / Trojan |
+| 7 | [唯兔云](https://www.clashmetahub.net/reviews/brand-17/) | 19.9 元起 | 公网中转 / 优化 | ShadowsocksR / VMess |
 | 8 | [极连云](https://www.clashmetahub.net/reviews/brand-19/) | 18.0 元起 | 公网中转 / 优化 | Shadowsocks / Trojan |
-| 9 | [sogo云](https://www.clashmetahub.net/reviews/sogo-28/) | 18.0 元起 | BGP 入口专线 | V2Ray / Vless |
-| 10 | [光年梯](https://www.clashmetahub.net/reviews/brand-20/) | 19.9 元起 | 纯内网 IPLC 专线 | ShadowsocksR / VMess |
-| 11 | [可信云](https://www.clashmetahub.net/reviews/brand-21/) | 25.0 元起 | BGP 中转 / IPLC | V2Ray / Vless |
-| 12 | [快狸](https://www.clashmetahub.net/reviews/brand-27/) | 28.9 元起 | 纯内网 IPLC 专线 | Hysteria2 / TUIC |
-| 13 | [二猫云](https://www.clashmetahub.net/reviews/brand-30/) | 22.0 元起 | 公网中转 / 优化 | Hysteria2 / TUIC |
-| 14 | [宇宙云](https://www.clashmetahub.net/reviews/brand-25/) | 30.0 元起 | 公网中转 / 优化 | Hysteria2 / TUIC |
-| 15 | [edgenova](https://www.clashmetahub.net/reviews/brand-26/) | 12.0 元起 | 纯内网 IPLC 专线 | Hysteria2 / TUIC |
+| 9 | [sogo云](https://www.clashmetahub.net/reviews/sogo-28/) | 25 元起 | BGP 入口专线 | V2Ray / Vless |
+| 10 | [光年梯](https://www.clashmetahub.net/reviews/brand-20/) | 18 元起 | 纯内网 IPLC 专线 | ShadowsocksR / VMess |
+| 11 | [可信云](https://www.clashmetahub.net/reviews/brand-21/) | 15 元起 | BGP 中转 / IPLC | V2Ray / Vless |
+| 12 | [快狸](https://www.clashmetahub.net/reviews/brand-27/) | 15 元起 | 纯内网 IPLC 专线 | Hysteria2 / TUIC |
+| 13 | [二猫云](https://www.clashmetahub.net/reviews/brand-30/) | 20 元起 | 公网中转 / 优化 | Hysteria2 / TUIC |
+| 14 | [宇宙云](https://www.clashmetahub.net/reviews/brand-25/) | 25 元起 | 公网中转 / 优化 | Hysteria2 / TUIC |
+| 15 | [edgenova](https://www.clashmetahub.net/reviews/brand-26/) | 15 元起 | 纯内网 IPLC 专线 | Hysteria2 / TUIC |
 | 16 | [速界](https://www.clashmetahub.net/reviews/brand-29/) | 15.0 元起 | BGP 中转 / IPLC | V2Ray / SSR |
 | 17 | [快雷GO](https://www.clashmetahub.net/reviews/kuailei-go/) | 20 元起 | 海外专线（官方标称） | 官方未标注 |
-| 18 | [山水云](https://www.clashmetahub.net/reviews/shanshuicloud-45/) | 18.0 元起 | 优质直连公网 | Vmess |
+| 18 | [山水云](https://www.clashmetahub.net/reviews/shanshuicloud-45/) | 12 元起 | 优质直连公网 | Vmess |
 | 19 | [万象加速](https://www.clashmetahub.net/reviews/wanxiang/) | 见官网 | CN2 / CUII / CMI 优化线路（官方标称） | 官方未标注 |
 | 20 | [WgetCloud](https://www.clashmetahub.net/reviews/wgetcloud-5/) | 28.0 元起 | 多机房集群负载（官网未标注专线类型） | Trojan |
 | 21 | [MDSS Cloud](https://www.clashmetahub.net/reviews/mdss-cloud-8/) | 12.0 元起 | 纯内网 IPLC 专线 | ShadowsocksR / VMess |
 | 22 | [FlowerCloud (花云)](https://www.clashmetahub.net/reviews/flowercloud/) | 25.0 元起 | BGP 入口专线 | Trojan / SSR |
+
+价格截至 2026-10-22，为站内记录的最低月付档，部分是小流量或限时套餐，请以各家官网下单页为准。
 
 网页版支持按价格、线路、协议筛选：https://www.clashmetahub.net/compare/
 
@@ -72,9 +74,22 @@
 - [怎么判断评测与榜单](#-怎么判断评测与榜单)
 - [客户端报错与玄学断网](#️-客户端报错与玄学断网)
 - [机场基础概念与黑话入门](#-机场基础概念与黑话入门)
+- [按预算分档速查](#按预算分档速查)
+- [按使用场景选](#按使用场景选)
+- [从付款到连上的六个步骤](#从付款到连上的六个步骤)
+- [新协议速查：AnyTLS、REALITY、Hysteria2、TUIC](#新协议速查anytlsrealityhysteria2tuic)
+- [Clash Verge 与 mihomo 认哪些协议和订阅格式](#clash-verge-与-mihomo-认哪些协议和订阅格式)
+- [免费与公益机场怎么看](#免费与公益机场怎么看)
+- [纯净 IP、原生 IP、家宽 IP 三个说法](#纯净-ip原生-ip家宽-ip-三个说法)
+- [梯子、机场、VPN：三个说法分别指什么](#梯子机场vpn三个说法分别指什么)
+- [免费梯子与免费 VPN：有哪些选项，各自写明了什么](#免费梯子与免费-vpn有哪些选项各自写明了什么)
+- [按设备选客户端：下载只认官方发布页](#按设备选客户端下载只认官方发布页)
+- [各客户端怎么导入配置：Clash Verge Rev、FlClash、Shadowrocket 对照](#各客户端怎么导入配置clash-verge-revflclashshadowrocket-对照)
+- [排障速查表：官方资料里写明的几类故障与处理](#排障速查表官方资料里写明的几类故障与处理)
 - [术语速查](#术语速查)
 - [更多内容](#更多内容)
 - [关于准确性](#关于准确性)
+- [更新记录](#更新记录)
 
 ---
 
@@ -548,6 +563,580 @@ TUN 模式所需的虚拟网卡驱动被系统阻止。请右键以管理员身�
 <sub>[↑ 回到目录](#目录)</sub>
 
 
+## 按预算分档速查
+
+官方标称起价用于找到清单中的入门档，不等于这次结算应付的钱。实际金额还要对应具体套餐、付款周期及适用条件，不能只拿宣传起点比较。
+
+### 15 元及以下：先读额度与扣费
+
+写这一节时（2026-10-22），这一档列有6家，其中5家的线路名称包含专线、IEPL或IPLC字样。协议栏出现Hysteria2、TUIC等，名字不代表使用表现。
+
+| 机场 | 官方标称起价 | 线路类型 | 协议 |
+| --- | --- | --- | --- |
+| [可信云](https://www.clashmetahub.net/reviews/brand-21/) | 15 元起 | BGP 中转 / IPLC | V2Ray / Vless |
+| [快狸](https://www.clashmetahub.net/reviews/brand-27/) | 15 元起 | 纯内网 IPLC 专线 | Hysteria2 / TUIC |
+| [edgenova](https://www.clashmetahub.net/reviews/brand-26/) | 15 元起 | 纯内网 IPLC 专线 | Hysteria2 / TUIC |
+| [速界](https://www.clashmetahub.net/reviews/brand-29/) | 15.0 元起 | BGP 中转 / IPLC | V2Ray / SSR |
+| [山水云](https://www.clashmetahub.net/reviews/shanshuicloud-45/) | 12 元起 | 优质直连公网 | Vmess |
+| [MDSS Cloud](https://www.clashmetahub.net/reviews/mdss-cloud-8/) | 12.0 元起 | 纯内网 IPLC 专线 | ShadowsocksR / VMess |
+
+- 要核对的是每个出口的扣费倍率，以及套餐何时恢复额度。这两项会影响同一标称流量能怎样使用，不能从起价代为确定。
+- 再把低价的限制逐项找出，包括限量、限速或线路标称的具体口径。金额低并不直接给出原因，缺少的条件需由运营方解释。
+
+### 15 元以上至 20 元：把周期列在一起
+
+写这一节时（2026-10-22），这一档有9家，其中5家的线路名称含专线、IEPL或IPLC。其余线路描述并不相同，协议栏也有官方未标注的项目。
+
+| 机场 | 官方标称起价 | 线路类型 | 协议 |
+| --- | --- | --- | --- |
+| [一翻云](https://www.clashmetahub.net/reviews/brand-24/) | 20 元起 | IEPL 专线（官方标称） | VLESS |
+| [光速云](https://www.clashmetahub.net/reviews/guangsu-15/) | 17 元起 | 双线接入专线 | SS / Trojan |
+| [全球云](https://www.clashmetahub.net/reviews/quanqiu-18/) | 20 元起 | IEPL 专线直连 | Shadowsocks / Trojan |
+| [U1S1](https://www.clashmetahub.net/reviews/u1s1-22/) | 20 元起 | BGP 国内中转 | Vmess / Trojan |
+| [唯兔云](https://www.clashmetahub.net/reviews/brand-17/) | 19.9 元起 | 公网中转 / 优化 | ShadowsocksR / VMess |
+| [极连云](https://www.clashmetahub.net/reviews/brand-19/) | 18.0 元起 | 公网中转 / 优化 | Shadowsocks / Trojan |
+| [光年梯](https://www.clashmetahub.net/reviews/brand-20/) | 18 元起 | 纯内网 IPLC 专线 | ShadowsocksR / VMess |
+| [二猫云](https://www.clashmetahub.net/reviews/brand-30/) | 20 元起 | 公网中转 / 优化 | Hysteria2 / TUIC |
+| [快雷GO](https://www.clashmetahub.net/reviews/kuailei-go/) | 20 元起 | 海外专线（官方标称） | 官方未标注 |
+
+- 需要问清的是起价对应哪种付款周期，以及月付、季付、年付各自的条件。不能把较长周期折算后的展示数字，当作可以单月支付的金额。
+- 还应单独确认当前周期的额度如何更新。按订单日期处理还是依自然月处理，需要读具体规则，不能按档位替商家决定。
+
+### 20 元以上：金额与线路标签分开读
+
+写这一节时（2026-10-22），这一档列有6家，其中4家的线路名称含专线、IEPL或IPLC。协议栏出现Trojan、TUIC等，线路名与协议名不是同一信息。
+
+| 机场 | 官方标称起价 | 线路类型 | 协议 |
+| --- | --- | --- | --- |
+| [飞猫云](https://www.clashmetahub.net/reviews/flycat/) | 25 元起 | IEPL 专线直连 | Trojan / SS |
+| [星岛梦](https://www.clashmetahub.net/reviews/seedream-2/) | 25 元起 | 双线接入专线 | Shadowsocks / Trojan |
+| [sogo云](https://www.clashmetahub.net/reviews/sogo-28/) | 25 元起 | BGP 入口专线 | V2Ray / Vless |
+| [宇宙云](https://www.clashmetahub.net/reviews/brand-25/) | 25 元起 | 公网中转 / 优化 | Hysteria2 / TUIC |
+| [WgetCloud](https://www.clashmetahub.net/reviews/wgetcloud-5/) | 28.0 元起 | 多机房集群负载（官网未标注专线类型） | Trojan |
+| [FlowerCloud (花云)](https://www.clashmetahub.net/reviews/flowercloud/) | 25.0 元起 | BGP 入口专线 | Trojan / SSR |
+
+- 在这里同样要查倍率的适用出口，以及延长付款周期后的约束。标价超过某条分界线，不表示这些条件就会自动相同。
+- 先用自己能接受的付款期限比较，再看对应额度与线路说明。不能因为金额较高，就把缺少的使用依据补成体验保证。
+
+写这一节时（2026-10-22），清单另有1家没有列出起价。先保留金额缺项，取得对应项目的付款条件后再判断预算归属。
+
+### 把预算核对落到具体订单
+
+1. 记录自己愿意承担的付款额，再找对应的官方入门档。随后回到实际项目，核对这次付款覆盖的周期和额度。
+2. 对照重置规则、出口倍率和限制条件，不把三个问题混在一个总价里。短周期与长周期也要分别看待，避免只因折扣延长资金占用。
+
+预算分类只帮助比较价钱，不回答使用表现。它也不替代客户端兼容、晚间连接情况和服务条款，读完金额仍要分别确认这些项目。
+
+延伸阅读：[性价比机场怎么选](https://www.clashmetahub.net/guides/cheap-airport-guide/)、[低价机场怎么试错：免费试用与按量计费](https://www.clashmetahub.net/guides/trial-and-metered-airport/)。
+
+## 按使用场景选
+
+使用场景应转成可查的条件，而不是直接转成某个品牌名称。同样的线路标签没有回答设备限制、扣费方式或特定服务当前的支持情况，需要把问题拆开。
+
+### AI 工具：区分地址与规则
+
+1. 先看线路描述及出口IP的类型，确认运营方所指的是哪种属性。出现机房或住宅等字样时，不把标签当成实际服务结果。
+2. 再看所需服务的地区支持说明，以及客户端是否将相关请求送往预期路径。页面验证提示也是需要记录的现象，频繁切换可能改变提示。
+3. 不要指望某种IP名称替代平台当下的判断。这里涉及线路、IP和客户端规则等因素，是否可用以官方服务当前的支持说明为准。
+
+### 流媒体：把内容地区单独核对
+
+1. 先看IP所指地区与内容的地区范围，明确自己实际需要访问的内容。不要用一个平台名称代替具体的内容条件。
+2. 再看住宅或机房等属性，以及当前出现的代理识别提示。同一运营方不同出口的地址来源可能不同，记录不能混用。
+3. 不要指望过去的结果一直延续。线路、IP属性与规则只是有关因素，是否可用仍依官方服务当前的支持说明。
+
+### 游戏：先问连接类型
+
+1. 先确认游戏联机需要的UDP转发是否有说明。面向网页的代理与游戏联机需求不能只按相同名称处理。
+2. 再看线路是否针对游戏作过安排，并分开记录白天与晚间的连接现象。日常网页访问的结果不能直接代替游戏联机情况。
+3. 不要指望普通网页代理自然涵盖游戏需求。没有相应说明时，向运营方确认UDP与所需场景，不自行补出功能。
+
+### 多设备共用：先分清设备与账号
+
+1. 先看允许同时在线的设备数量，别把设备能安装客户端当作账号可无限共用。限制应对应具体套餐与条款。
+2. 再看是否会与他人分享账号或订阅信息。信息外泄可能使额度被他人使用，共享方也可能接触使用情况。
+3. 不要指望费用分摊会消除账号限制。应分别考虑停用风险、隐私与额度使用，而不是只计算每人支出。
+
+### 低预算：把限额与时间一起读
+
+1. 先看自己需要的额度，以及按月或不限时项目的有效方式。用量不规律时，期限和剩余额度的处理尤其需要明确。
+2. 再核对倍率、额度重置与付款周期，并询问低价对应哪些限制。晚间表现与线路实际情况也应留作后续观察项。
+3. 不要指望低起价回答全部成本问题。长周期折扣还关联资金占用，不能只为展示金额而忽略服务条件。
+
+- 每种场景都应留下具体项目及适用范围。条款尚未写明的地方，让客服补足说明，不用另一个场景的结论填空。
+
+延伸阅读：[机场是什么、和 VPN 有何区别](https://www.clashmetahub.net/guides/what-is-airport/)、[性价比机场怎么选](https://www.clashmetahub.net/guides/cheap-airport-guide/)。
+
+## 从付款到连上的六个步骤
+
+付款、取得订阅和客户端读取是不同环节，前一项完成不代表后一项已经成功。把每步应有的结果分开核对，连接异常时才容易回到对应位置。
+
+### 付款与领取
+
+1. 付款前列清格式、周期、额度和设备限制，再查重置与倍率怎样计算。先确认客户端能读取对应格式，再决定承担的付款期限。缺少条文时，让客服说明适用项目，不以折扣替代条件。
+2. 付款后向运营方取得属于自己的订阅信息，确认交付的是哪种配置格式。若官方没有说明领取位置，让客服指出实际页面与对应项目。订阅地址用于请求后台配置，不是客户端自带的内容。
+
+### 选择软件与导入
+
+3. 根据设备选择能够读取该格式的客户端，再核对所需配置类型。格式不相容会使列表无法显示，这与连接响应是不同问题。软件名称相近也不能代替格式确认，具体条件应查对应说明。
+4. 把订阅导入客户端，观察解析结果。出现invalid config时，查返回的是配置还是提示页。过期或额度耗尽可能收到网页内容，不把此类问题统一归给软件。
+
+### 最小检查与继续定位
+
+5. 先确认配置已读入，并查看客户端的系统代理是否已经启用。再以实际需要访问的对象检查连接，而不是只凭导入完成判断。涉及AI或媒体时记录提示及请求路径，不据一次现象概括服务结果。
+6. 不通时先查订阅有效性，再核对格式和系统代理。把解析失败与连接失败分开，无法确认的返回内容交运营方查明。记录软件、项目状态和报错，方便围绕同一环节处理。
+
+### 连接建立后的观察记录
+
+- 将日常需要的使用过程与晚间情况分别记录，也观察客服如何处理已提交的问题。单次接通只是当时的结果，不能代替之后的持续使用情况。
+- 试用或短周期中遇到限制，要回到当初确认的条款逐项对应。是否延长付款周期应等条件与实际需要厘清，不只依据延长周期后的展示金额。
+
+把配置读取、请求处理和交易状态各自保存，排错才不会只剩“连不上”这一句话。每次反馈都围绕具体环节，避免反复更换客户端却遗漏格式或项目状态。
+
+延伸阅读：[低价机场怎么试错：免费试用与按量计费](https://www.clashmetahub.net/guides/trial-and-metered-airport/)、[机场是什么、和 VPN 有何区别](https://www.clashmetahub.net/guides/what-is-airport/)。
+
+## 新协议速查：AnyTLS、REALITY、Hysteria2、TUIC
+
+协议名称应与它描述的层次一起阅读，不能只把几个名字并排比较。文档中的定位、参数参考和实现版本回答不同问题，运营方公示的名称还需与客户端实际内核对应。
+
+### AnyTLS：基于 TLS 的代理协议
+
+项目将它定位为处理嵌套TLS握手问题的代理协议，Go程序属于参考实现。协议说明涵盖认证、会话复用及填充方案，并非一份客户端功能承诺。
+
+写这一节时（2026-10-22），sing-box出站页标注1.12.0起。mihomo列有AnyTLS字段页，但没有给起始支持版本，也明确不接受与REALITY组合。
+
+选购时应确认运营方的协议项是否确指AnyTLS，再查本机内核与所需字段。参考实现用于演示协议，不能仅因名字相同就认定所有客户端实现一致。
+
+### REALITY：传输安全选项
+
+Xray将REALITY置于传输安全层，它是对TLS的修改，涉及目标站点的握手特征。它与VLESS的关系应按协议和传输安全分别理解，不能将两种名称互换。
+
+写这一节时（2026-10-22），sing-box更新日志较早出现的记录为1.2-beta5。共享TLS页面没有标出起始版本，mihomo也没有给出它的最低版本。
+
+写这一节时（2026-10-22），mihomo文档注明不考虑与xray v26.7.11及以上版本兼容。询问运营方时，需把服务端实现也纳入核对，而不只报客户端名称。
+
+### Hysteria2：QUIC 上的 TCP 与 UDP 代理
+
+官方规范将它描述为以QUIC承载TCP和UDP的代理协议，也涉及不可靠数据报扩展。文档分别说明认证和连接处理，不能用传输名称代替兼容条件。
+
+写这一节时（2026-10-22），sing-box更新日志在1.5.0记载加入Hysteria2。mihomo有独立协议页，但文档没有说明最低内核版本。
+
+核对时还要区分Hysteria两代协议，客户端与服务端需使用同一代。不能把旧项目的同名缩写，当作新协议配置已匹配的证据。
+
+### TUIC：中继 TCP 与 UDP 的协议规范
+
+TUIC仓库负责协议设计，并不包含官方实现。规范主要面向QUIC，也描述多路复用与TLS加密传输；实际软件由各实现项目负责。
+
+写这一节时（2026-10-22），sing-box更新日志在1.4.0记载加入TUIC。mihomo按协议版本区分认证字段，但没有列出最低支持版本。
+
+- 协议规范和客户端版本应分开核对。同名实现也要继续确认所需字段，不能由规范仓库代为保证。
+- 文档没有给出的兼容项保留疑问。将运营方协议栏与本机内核信息一同交给客服，确认实际采用的形式。
+
+| 名称 | 官方说明的传输基础 | mihomo 文档 | sing-box 文档 |
+| --- | --- | --- | --- |
+| AnyTLS | TLS；会话层建立其上 | 列有独立字段页 | 列有出站及入站页 |
+| REALITY | 对TLS的修改，属传输安全 | TLS页含相关选项 | 共享TLS页含相关字段 |
+| Hysteria2 | QUIC及不可靠数据报扩展 | 列有独立协议页 | 列有出站页 |
+| TUIC | 主要面向QUIC，依赖多路复用加密流 | 列有独立协议页 | 列有出站页 |
+
+延伸阅读：[sing-box 机场推荐](https://www.clashmetahub.net/guides/sing-box-airport/)、[Clash 机场推荐与订阅选择](https://www.clashmetahub.net/guides/clash-airport/)。
+
+## Clash Verge 与 mihomo 认哪些协议和订阅格式
+
+Clash Verge的名称不能单独回答兼容范围，还需要知道它实际运行的mihomo内核。协议有文档页、配置能够解析和当前发布程序含有对应功能，是需要分别核对的事项。
+
+### 以中文文档的出站页为口径
+
+mihomo中文文档列有下列页面，其中也包含DIRECT和DNS等内置出站。这里使用中文侧栏的范围，英文侧栏及项目介绍中的简表不能直接替代它。
+
+| 文档列出的页面 | 续列 |
+| --- | --- |
+| DIRECT、DNS、HTTP、SOCKS | Shadowsocks、ShadowsocksR、Snell |
+| VMess、VLESS、Trojan | AnyTLS、Mieru、Sudoku |
+| Hysteria、Hysteria2、TUIC | ShadowQUIC、WireGuard、SSH |
+| MASQUE、TrustTunnel | EasyTier、Tailscale、ZeroTier、OpenVPN |
+
+这些页面主要描述字段，并未统一写明协议从哪个内核版本开始提供。不能因为新文档列出某项，就反推手头较旧的软件也具备相同内容。
+
+### 区分文件内容与 provider 类型
+
+文件内容有yaml、uri与base64几种形式，文档要求它们不要混在同一文件中。uri与base64不需要配置的proxies字段，但示例没有给出全部协议前缀的解析清单。
+
+- provider的http、file和inline说明取得内容的方式，不是协议的别名。分别对应远端读取、本地文件，以及直接写入payload。
+- payload可用于inline，文档还说明它能在http或file解析失败时提供备用列表。不能据此推定任意分享格式都可转换成功。
+
+### 协议栏写法与文档逐项对应
+
+同一项在清单中可能使用缩写或不同大小写，要核对的是对应协议页和实际字段。V2Ray这一写法没有在所列页面中直接对应一项，需要运营方说明实际出站类型。
+
+| 清单里的写法 | mihomo文档中的对应项 | 仍需确认的边界 |
+| --- | --- | --- |
+| Hysteria2 | Hysteria2 | 最低内核版本文档没有说明 |
+| SS、Shadowsocks | Shadowsocks | 仍需核对具体配置 |
+| SSR、ShadowsocksR | ShadowsocksR | 发布程序是否编入、uri解析及最低版本，文档没有说明 |
+| TUIC | TUIC | 认证字段与协议版本分别对应 |
+| Trojan | Trojan | 传输及相关选项按字段页核对 |
+| VLESS、Vless | VLESS | 不把名称当作全部传输组合的确认 |
+| VMess、Vmess | VMess | 继续检查实际配置格式 |
+| V2Ray | 所列清单未见同名出站页 | 请运营方明确实际协议类型 |
+| 官方未标注 | 无法据此匹配 | 需补充明确名称后再核对 |
+
+ShadowsocksR虽有专页，页面没有说明实际发布内核是否编入，也未交代相应uri能否被provider读取。项目介绍未列SSR，同样不能反过来认定它必然不受支持。
+
+### 取得订阅后的核对路径
+
+1. 到客户端设置或关于信息查找内核名称与版本，记录实际显示值。不要把客户端界面版本直接当成mihomo版本。
+2. 将配置的协议名称、内容格式与文档对应，确认是完整文件还是分享内容。若缺少格式说明，请运营方指出对应客户端的文件类型。
+3. 对照字段限制及版本记录，再确认服务端的组合条件。文档没有说明最低版本时，应保留这个缺项，请维护者说明当前程序的实际支持范围。
+
+延伸阅读：[Clash 机场推荐与订阅选择](https://www.clashmetahub.net/guides/clash-airport/)、[Stash 机场推荐](https://www.clashmetahub.net/guides/stash-airport/)。
+
+## 免费与公益机场怎么看
+
+“免费”只描述某项收费条件，没有同时回答由谁运营、能使用多久以及如何处理数据。看到相关说法时，应先区分它指正式服务的试用，还是未经明确说明的公共分享。
+
+### 先把不同称呼拆开
+
+免费试用可以附带时长或额度限制，限时免费强调的是活动结束点。长期免费则是持续收费方式的说法，不能从这几个字补出有效期限或运营承诺。
+
+公益性质是发布者对定位的自述，不等于已经列明服务条款。转发订阅只说明内容经他人转递，不能用转发者代替实际运营者的身份说明。
+
+| 免费说法 | 应继续确认的内容 |
+| --- | --- |
+| 免费试用 | 限时还是限量，结束后的处理方式 |
+| 限时免费 | 起止条件、结束后是否收费 |
+| 长期免费 | 持续条件、限制及费用承担方式 |
+| 公益性质 | 谁负责运营、按哪些条款提供内容 |
+| 转发订阅 | 原运营者、分享权限与是否多人共用 |
+
+### 用五项问题核对具体条件
+
+1. 找到负责运营与受理问题的一方，确认说明是否由其发布。只有转发内容时，不把转发账号当成运营身份。
+2. 读使用条款及退出条件，把免费期间适用的规则单独找出。正式服务的试用与来路不清的公共内容不能混同。
+3. 记录可用额度和截止条件，确认是按时间还是按用量结束。限制没有写出时，让运营方提供对应文字，不凭“免费”推定无限。
+4. 查是否存在付费升级，并问清结束后按何种条件继续。是否自动扣款也要单独确认，不能把首个周期的安排当成长期安排。
+5. 确认公告与反馈的具体出处，再区分发布者解释和个人经历。低价或免费都不直接说明线路实际情况与经营是否持续，记录需要对应时间和对象。
+
+### 风险应落到自己的账号与信息
+
+- 隐私方面，要留意运营成本是否与广告或使用数据记录相关。来路不明的免费内容没有因此获得更少的隐私风险，试用也不等于已有保护承诺。
+- 账号方面，试用期间不宜处理重要账号与支付。共享账号还涉及设备上限和使用信息，人数增加不会让原有条款失效。
+- 订阅外传可能让他人消耗同一额度，不能把已取得的链接当作可任意转交的公共内容。明文传输如何处理若官方没有说明，应进一步询问数据保护范围。
+
+核对结果应围绕已找到的运营说明与具体限制，而不是寻找一句免费承诺。运营方没有交代的部分保留疑问，不用他人的一次使用经历填补隐私与账号条件。
+
+延伸阅读：[机场跑路怎么办与自查方法](https://www.clashmetahub.net/guides/airport-runaway-guide/)、[低价机场怎么试错：免费试用与按量计费](https://www.clashmetahub.net/guides/trial-and-metered-airport/)。
+
+## 纯净 IP、原生 IP、家宽 IP 三个说法
+
+这几个称呼讨论的不是同一件事，不能合成一个表示使用结果的标签。地址在哪里、属于什么网络用途、是否发生变化，以及已有使用记录，都应分别确认。
+
+| 说法 | 通常指向的内容 | 运营方应解释的范围 | 读者核对方向 |
+| --- | --- | --- | --- |
+| 纯净IP | 具体判断口径需另行明确 | 具体指哪些记录或判断，结论针对何时 | 让对方明确口径，不只接受标签 |
+| 原生IP | 地址归属与实际所在地点相符 | 所指地区、当地分配与实际位置 | 分别核对归属和实际落地说明 |
+| 家宽IP | 住宅网络属性，对应家庭宽带用途 | 是否确指住宅而非数据中心类型 | 对照地址类型说明，不与地区属性混用 |
+
+### 原生与住宅需要分别说明
+
+原生的重点在地址归属和实际位置，住宅的重点在分配给家庭宽带这一用途。两项属性不能仅凭一个名称互相替代，运营方需要分别解释所指内容。
+
+家宽说法若确实指住宅IP，应继续查具体使用及计费条件。住宅属性可能关联更高费用或倍率，不能只接受名称而省略套餐中的实际扣费规则。
+
+### 对“纯净”继续问三件事
+
+1. 问清这个词描述哪一项属性，是地址类型还是已有使用行为。官方没有说明判断口径时，不自行把它解释成某种认证或安全结论。
+2. 问清结论对应的时间与对象，尤其是否针对你实际使用的出口。地址历史和平台当前判断是相关因素，不能从笼统宣传推定到所有连接。
+3. 问清地址是否固定、何时变化，以及是否与他人共用。动态、静态和共享各自描述使用方式，不是“纯净”的同义词。
+
+### 动静态描述的是变化方式
+
+静态地址保持固定，动态地址会随周期或连接发生变化。需要地址白名单的企业系统或部分API，应单独确认固定地址条件，而不是只看原生或住宅的名称。
+
+- 地址变化可能带来重新验证提示，共享与历史行为也应分开考虑。不能由“会更换地址”推定平台会怎样处理当前请求。
+- 固定地址也没有回答住宅属性或实际地区。将变化方式、用途和位置分别列清，才能知道运营方真正说明了哪些项目。
+
+### 与 AI 服务及流媒体的关系
+
+服务页面上的地区提示、代理识别或账号验证，可能与IP类型、归属及历史行为有关。线路类型与客户端规则也属于需要同时观察的因素，不能只靠某个IP名称解释全部现象。
+
+AI服务和媒体平台会调整自身支持条件，当前提示只反映当时环境。阅读这些属性时，应以官方服务现行支持说明对应具体需求，不将任何一类地址写成长期结果保证。
+
+延伸阅读：[机场是什么、和 VPN 有何区别](https://www.clashmetahub.net/guides/what-is-airport/)、[机场跑路怎么办与自查方法](https://www.clashmetahub.net/guides/airport-runaway-guide/)。
+
+## 梯子、机场、VPN：三个说法分别指什么
+
+「梯子」「机场」「VPN」在日常介绍中会指向不同层面，本章将机场限定为代理订阅运营方这一社区称呼，不把它当技术标准名。已有问答介绍过这些称呼，这里改看协议和系统文档分别描述什么，不再展开服务选购。
+
+### 按产品实际提供的对象辨别称呼
+
+看到一段介绍，可以先分辨它提供订阅配置、发布客户端，还是描述系统接口。服务来源、软件与协议并不是同一对象，名称相近也不能替代这一步区分。
+
+| 说法 | 技术上通常对应 | 官方文档里能核对到的描述 |
+|---|---|---|
+| 梯子 | 日常对连接工具或方式的泛称，不对应单独协议 | 分别查 HTTP 隧道、SOCKS 或系统接口，不把口语当协议定义 |
+| 机场 | 本章约定指代理订阅服务的运营方 | 协议规范描述通信动作，不替运营方说明具体条款 |
+| VPN | 应用或系统级连接机制，要继续看具体项目 | Android 描述虚拟接口及 IP 包处理，Apple 提供 Personal VPN 配置管理接口 |
+
+表格用于确定下一步该读哪份资料，没有把这些称呼排成能力等级。看到某项介绍只给一个口语名称时，仍缺少协议或软件层面的对应信息，不能由名称补齐。
+
+### CONNECT 说明的是隧道动作
+
+RFC 9110 的 CONNECT 让代理连接目标，请求中要带目标主机与端口。建立隧道之后，代理在两个方向转发数据，规范没有在这里替每种实际产品给出完整的可见信息清单。
+
+隧道还能在其上使用 TLS，但建成隧道与采用 TLS 是两项描述。[RFC 9110](https://www.rfc-editor.org/rfc/rfc9110) 可用于核对前者，不能只凭出现代理一词就确认后者的具体条件。
+
+### SOCKS 的层级与机密性分别阅读
+
+RFC 1928 把 SOCKS 放在应用层和传输层之间，涉及 TCP 与 UDP 通信。它还说明自己不提供网络层网关服务，例如转发 ICMP，这一范围不能被改写成对所有代理软件的统一定义。
+
+机密性取决于协商的认证及封装方法，而不是协议名字本身作出的保证。对应条文在 [RFC 1928](https://www.rfc-editor.org/rfc/rfc1928)，这里不从账号、口令或中转名称推断连接用了哪种保护。
+
+### 系统文档描述接口，不替工具作优劣比较
+
+Android 的 VpnService 用于让应用建立虚拟接口，并配置地址及路由，应用通过返回的文件描述符处理 IP 包。[Android VpnService 官方文档](https://developer.android.com/reference/android/net/VpnService) 描述的是平台能力，不能用它证明任意应用已经采用相同配置。
+
+Apple 的 NEVPNManager 则用于在 iOS、macOS 创建和管理 Personal VPN 配置。[Apple NEVPNManager 官方文档](https://developer.apple.com/documentation/networkextension/nevpnmanager) 与 Android 文档是各自系统的说明，不是一张由官方给出的代理与 VPN 对照结论表。
+
+OpenVPN 官方介绍涉及 SSL/TLS 网络扩展，并明确它不是网页应用代理。只能保留该项目对自身的描述，不能据此断言所有带 VPN 名称的工具都具有相同界面或范围。
+
+### 读产品介绍时对照它提供的对象
+
+介绍写的是订阅配置，就先记录提供方与内容；写的是应用，就看它的发布与系统说明；写的是接口或协议，则读对应规范。这个分类是阅读方法，不把任何一类名称当作已经确定的连接能力。
+
+例如 CONNECT 文档的成功响应会使双方转入隧道状态，SOCKS 文档则分别描述连接与 UDP 关联，后者还随对应 TCP 连接结束而终止。这些过程属于具体协议，不能直接拿来解释一家运营方的条款，也不能替应用界面补出同名按钮。
+
+### TLS 与平台披露回答另外两类问题
+
+RFC 8446 把通道建立后数据只对端点可见列为机密性内容，同时交代数据长度不被隐藏。这里的端点保护不能替代客户端来源、运营方身份或具体数据用途的说明。
+
+Apple 对 VPN 应用还要求使用前披露收集哪些数据及用途，并在政策中作出相应承诺。这是应用审核要求，与协议工作层次不同，不能因为读到了平台规则，就把某个产品的实际行为写成已证明。
+
+延伸阅读：[机场是什么、和 VPN 有何区别](https://www.clashmetahub.net/guides/what-is-airport/)。
+
+## 免费梯子与免费 VPN：有哪些选项，各自写明了什么
+
+本章从官方免费工具入手，不重复免费或公益服务的运营核对清单。产品按材料顺序出现，顺序不代表推荐程度；表中空格表示官方页面未写明或本次未取得，不表示没有限制。
+
+### 选项清单保留产品自己的表述范围
+
+Proton VPN 免费版列有电脑、手机、浏览器及部分电视端入口。官方称无广告、应用开源且经独立审计，并实行不记录日志政策；免费介绍称不限制流量和速度，定价页仍标为 Medium，两个说法都保留。
+
+Cloudflare WARP 有手机商店入口及 Windows、macOS、Linux 版本。官方称不会出售用户数据，会加密设备向外发送的更多流量，免费配额和开源范围则未在已读页面写明。
+
+Windscribe 提供免费计划，截至 2026-10-22 官方首页显示注册并确认邮箱后每月 10GB，以官方页面为准；平台包括桌面、移动和浏览器。官方称没有可识别个人的日志，页面也有开源入口，但具体组件范围未取得。
+
+TunnelBear 有手机、电脑和 Browser 入口，免费额度见下表。官方称每年做安全审计并公布结果，不等于已取得其日志政策全文；付费 Unlimited 档截至 2026-10-22 显示起价 $3.33/月，页面标注含促销折扣，以官方页面为准。
+
+Psiphon Basic 免费、有广告并减少部分功能，开始使用无需账号，平台为 Android、iOS、Windows。官方称客户端及隧道核心代码开放，也称不收集可识别个人信息、不建立活动画像。
+
+Lantern 自称非营利 VPN，支持 Android、iOS、Windows、Mac、Linux。官方称项目开源且不收集浏览和连接历史，多数国家的免费档有每日上限，Pro 条件不移到免费档。
+
+Tor 这里只保留官方自述：项目称通过自由开源技术和捐赠维持，浏览器会隔离网站。下载资料列桌面与 Android，不能扩大为其他系统名单或设备全部流量的隐私结论。
+
+### 免费限制和开源对象分列对照
+
+| 工具 | 平台 | 免费档限制 | 是否开源（官方称） |
+|---|---|---|---|
+| Proton VPN 免费版 | 桌面、移动等，按其平台原列表 | 截至 2026-10-22，官方页面显示同时 1 台、随机分配 10 个国家且不可自选，以官方页面为准。 | 官方称应用开源 |
+| Cloudflare WARP | 手机与 Windows、macOS、Linux | 官方页面未写明额度和设备数 | 已读页面未写明 |
+| Windscribe | 手机、电脑、浏览器等 | 截至 2026-10-22，官方首页显示注册并确认邮箱后每月 10GB，以官方页面为准 | 有官方代码入口，组件范围未核到 |
+| TunnelBear | iPhone/iPad、Android、Mac、Windows、Browser | 截至 2026-10-22，官方页面显示免费档每月 2GB，以官方页面为准。 | 未取得说明 |
+| Psiphon Basic | Android、iOS、Windows | 广告、减少功能、无需账号 | 官方称客户端及核心开源 |
+| Lantern | 手机及 Windows、Mac、Linux | 多数国家按日限额，具体数值未取得 | 官方称开源 |
+| Tor Browser | 官方列桌面和 Android | 官方称靠捐赠维持，未补付费档位 | 官方称采用自由开源技术 |
+
+截至 2026-10-22，官方页面显示 Windscribe 付费页面列 112 个城市，features 页面则列 135 个城市，以官方页面为准。两项不一致并列保留，不能把它们当作免费档覆盖数，原资料见 [Windscribe 官方页面](https://windscribe.com/)。
+
+TunnelBear 的设备 FAQ 没有限定适用档位，因此这里不把它改成免费并发条件。Lantern 另有支付受限情形下的免费无上限说法，也保留情形限定，不写成所有国家统一没有限制。
+
+Windscribe 的开源入口与一个完整组件清单不同，Tor 自述的浏览器保护也不能移给设备其他程序。字段之间没有自动补齐关系，免费额度、代码范围和数据声明分别保留自己的对象。
+
+### 免费收入与历史研究需要标注年份
+
+FTC 在 2018 年的提示中提到，许多免费 VPN 应用靠应用内广告，并提醒使用者授予应用处理全部上网流量的权限。[FTC 2018 年业务博客](https://www.ftc.gov/business-guidance/blog/2018/02/market-vpn-app) 是历史提示，不用来认定表中每项工具都以同一种方式维持。
+
+2016 年研究以涉及 VPN 权限的 283 个应用作为样本，原始语料约 140 万个应用，并报告了一些严重隐私及安全问题的个例。本章只保留年代、样本规模与这一有限结论，不引用百分比，也不将历史样本等同于今天这份名单。
+
+### 平台政策与连接确认不替产品验证行为
+
+Apple 对 VPN 应用要求在使用前清楚披露数据及用途，Google Play 也要求显著披露与同意，并限制为变现操纵其他应用流量。它们属于平台规则，不是对具体应用实际行为的保证。
+
+Android 首次激活 VPN 前会弹出系统连接请求，活动连接会显示钥匙图标。确认窗口与隐私政策不是同一份信息，不能把看到图标当成数据用途或免费条件已被核实。
+
+Google Play 还要求设备到隧道端点的数据加密，并且披露不能只藏在隐私政策或服务条款。Apple 的开发者身份、所用 API 也有要求，但平台要求不等于本章已经检查了清单每个产品的实现。
+
+### 按平台和资料范围继续选择
+
+只用手机，便逐项核对 Android 或 iOS；只用电脑，则注意 Psiphon 本章只取得 Windows，而 Tor 只到桌面这一层。想看代码时，区分应用、核心和代码入口，不把一个仓库扩大成所有发行内容。
+
+Psiphon 的 Basic 广告与功能限制，不会因为项目另有无广告档位就消失。免费条件与后续升级是两层说明，本章没有把 Plus 或 Pro 的功能和设备范围填进免费列。
+
+在意隐私声明时，把不出售数据、不记录可识别日志和不建立画像按原项目分开读。Proton 的明确限制可沿 [Proton VPN 免费版官方页面](https://protonvpn.com/free-vpn) 核对，TunnelBear 的额度资料见 [TunnelBear 官方页面](https://www.tunnelbear.com/)，未写明的条件不借其他产品补齐。
+
+延伸阅读：[机场跑路怎么办与自查方法](https://www.clashmetahub.net/guides/airport-runaway-guide/)、[低价机场怎么试错：免费试用与按量计费](https://www.clashmetahub.net/guides/trial-and-metered-airport/)。
+
+## 按设备选客户端：下载只认官方发布页
+
+客户端选择在这里从发布来源、设备和文件形态开始，不重写选购或连接流程。Verge 文档指明项目通过 GitHub Release 发布，Shadowrocket 则对应 App Store 条目，软件名称不能代替发布来源。
+
+### Windows 对照客户端与包架构
+
+Verge 的安装资产见 [Clash Verge Rev 官方发布页](https://github.com/clash-verge-rev/clash-verge-rev/releases)，不能仅凭 README 的平台概述选文件。截至 2026-10-22，官方页面显示 README 列 x64/x86，而本次安装包为 x64、arm64，以官方页面为准，两处不合并成相同清单。
+
+截至 2026-10-22，官方页面显示 FlClash 要求 Windows 10+，列 x64、ARM64 的 exe 安装版与 zip 便携版，以官方页面为准。安装形态和架构要分别对应设备，不能把便携包名称当成另一种系统。
+
+Verge 还有内置 WebView2 的安装包，文件标识带 fixed_webview2。文档限定其用途为系统缺少而且无法安装该环境时使用，不将它解释成界面或功能更多的一档。
+
+官方文档另列 WinGet、Scoop 等安装渠道，并注明 Scoop 由社区维护，对下游渠道问题不提供支持。这些渠道说明与发布来源的声明分别阅读，不补写渠道之外的下载地址。
+
+### macOS 保留系统门槛的两种写法
+
+截至 2026-10-22，官方页面显示 Verge README 写 macOS 11+，文档要求 macOS 12 及以上，并为 macOS 11 提及自行替换内核，以官方页面为准。两种门槛并排，以你实际看到的官方页面为准。
+
+截至 2026-10-22，官方页面显示 Verge 有 x64、aarch64 的 dmg，以及用于更新的 .app.tar.gz；FlClash 要求 macOS 12+，按 Apple Silicon、Intel 列 DMG，以官方页面为准。ClashX.Meta 的资料见 [ClashX.Meta 官方发布页](https://github.com/MetaCubeX/ClashX.Meta/releases)，已读 README 只有原 ClashX 对 Clash 的描述，不能仅由名称确认 Meta 内核对应关系。
+
+### Linux 只列已取得的形态
+
+Verge 提供 deb 与 rpm，FlClash 则列 deb、rpm 和 AppImage。前者在本次发布没有列出 AppImage，不能把后者的安装形态移到前者。
+
+Verge 的 deb 分 amd64、arm64、armhf，rpm 分 x86_64、aarch64、armhfp。FlClash 另列 x64、ARM64，并提示托盘可能需要 AyatanaAppIndicator 库，不能把托盘条件写成所有客户端共同要求。
+
+同一发布还带有签名文件与更新元数据，辅助资料不能看成新的安装程序。macOS 的更新归档、Linux 的包类型及 Windows 的安装程序分别列出，没有用一个扩展名替全部平台选文件。
+
+### Android 的专用项目与多平台项目分开
+
+截至 2026-10-22，官方页面显示 Clash Meta for Android 要求 Android 5.0+，以官方页面为准。其 README 还列 F-Droid 徽章，具体发布版本与其他客户端分别记录。
+
+FlClash 发布资料见 [FlClash 官方发布页](https://github.com/chen08209/FlClash/releases)，Android 资产按 arm64-v8a、armeabi-v7a、x86_64 列 APK。F-Droid 另列为入口，这一渠道与某种处理器架构不是同一类信息。
+
+### iOS 先对照商店开发者与兼容性
+
+Shadowrocket 的美区条目在 [Shadowrocket 的 App Store 页面（美区）](https://apps.apple.com/us/app/shadowrocket/id932747118)，开发者为 Shadow Launch Technology Limited。商店明确应用不带代理服务或服务器资源，不能把安装应用写成配置内容也已取得。
+
+截至 2026-10-22，官方页面显示 iPhone、iPod touch 要求 iOS 13.0+，iPad 要求 iPadOS 13.0+，以官方页面为准。这里只列兼容字段，不补写安装后的 VPN 授权窗口。
+
+截至 2026-10-22，官方页面显示美区标价 $2.99，港区 HK$ 22.00，以官方页面为准。币种按两页原样保留，这些商店字段用于对照资料，不把地区差别编成定价原因。
+
+应用的一句话描述面向 iPhone/iPad，商店兼容性还列有 Mac、Apple Vision 与 Apple TV 条件。描述和兼容性不是同一字段，因此不能只凭描述短句替整份设备列表作判断。
+
+### 发布记录按客户端各自读取
+
+| 客户端 | 平台 | 基于的内核 | 截至核对日的官方发布版本与日期 |
+|---|---|---|---|
+| Clash Verge Rev | Windows、macOS、Linux | mihomo | 截至 2026-10-22，官方页面显示 v2.5.8，日期 2026-10-09，以官方页面为准。 |
+| FlClash | Android 与所列桌面系统 | mihomo，资料亦称 Clash.Meta | 截至 2026-10-22，官方页面显示发布接口记录 v0.9.1、2026-10-17，以官方页面为准。 |
+| Shadowrocket | 商店兼容性列苹果设备 | 本章未取得内核名称 | 截至 2026-10-22，官方页面显示 2.2.92，更新栏写 Sep 7，未显示年份，以官方页面为准。 |
+| Clash Meta for Android | Android | README 写 Clash.Meta | 截至 2026-10-22，官方页面显示 v2.11.36、2026-10-21，以官方页面为准。 |
+| ClashX.Meta | macOS | README 只提 Clash，Meta 对应说明未取得 | 截至 2026-10-22，官方页面显示 v1.4.47、2026-10-21，以官方页面为准。 |
+| Clash Party | README 未列平台 | 自述为 Mihomo 图形客户端 | 截至 2026-10-22，官方页面显示 v2.0.4、2026-10-18，以官方页面为准。 |
+
+Clash Party 原有 mihomo-party 名称的入口已经重定向，站内旧称与当前项目名需要对应同一份项目资料。它的 README 介绍图形界面而没有列平台，这里不由 Electron 名称猜测具体系统。
+
+Verge Rev 则由项目介绍明确连接到旧 Clash Verge，两个项目的安装资料不能仅凭名字沿用。旧项目的配置介绍也不替 Rev 当前发布资产补文件，选取时仍对应本表项目名称。
+
+FlClash 的完整日期来自发布接口，不是补写可视页面缺少的年份。Clash Party 的 Electron 信息同样不能代替平台列表，未知一栏在表中保留。
+
+截至 2026-10-22，官方页面显示 Shadowrocket 美区、港区可打开，国区本次抓取返回 HTTP 404，以官方页面为准。这个记录不提供地区差异的原因，也不补成后续访问状态的保证。
+
+延伸阅读：[小火箭机场推荐](https://www.clashmetahub.net/guides/shadowrocket-airport/)、[v2rayN 机场推荐](https://www.clashmetahub.net/guides/v2rayn-airport/)。
+
+## 各客户端怎么导入配置：Clash Verge Rev、FlClash、Shadowrocket 对照
+
+通用的交付与连接顺序已在前文说明，这里只对照三个项目写明的导入入口。规则文件、远程配置和协议入口按各自资料记录，不把一个客户端的界面名称移给另一个。
+
+### 先按项目对应入口，而不是凭格式名称找按钮
+
+| 客户端 | 官方写明的远程或协议入口 | 官方写明的本地入口 |
+|---|---|---|
+| Clash Verge Rev | 文档将链接导入、链接配置和 URL Schemes 分列为入口 | 新建配置时可以选择文件，也可以拖拽文件导入 |
+| FlClash | 订阅链接；配置安装用 URL scheme | 本地文件 |
+| Shadowrocket | URL 规则文件；历史记录出现订阅导入 | iCloud Drive 中的规则文件 |
+
+Verge 的入口分类可到 [Clash Verge Rev 官方文档站](https://clash-verge-rev.github.io/) 对照。表内是来源各自列出的项目，不能从同列位置推定它们有完全相同的文件范围或操作按钮。
+
+### Verge 区分入口、复制件与空配置
+
+远程部分分为链接导入、链接配置及 URL Schemes，不在这里补未给出的菜单层级。若遇 client error 的排错顺序，另见本轮排障表，不在这份入口对照中重复。
+
+本地文件通过新建配置选择，或拖到客户端导入，选中内容随后复制进 profiles。文档说明原文件移动、删除不会影响导入复制件；新建时不选文件直接保存，则产生空配置。
+
+截至 2026-10-22，官方页面显示拖拽导入最低要求为 v1.6.2，macOS 的 URL Schemes 从 Verge 2.0 之后支持，以官方页面为准。Windows 的协议入口若失效，文档另有相应说明，不把两套系统当成相同条件。
+
+### FlClash 的协议入口只保留已有写法
+
+README 写明链接和文件两种导入来源，还给出 `clash://install-config?url=<订阅链接>` 这一安装配置的协议写法。`clashmeta://` 和 `flclash://` 也列为可用入口，这些是协议模板，不是本章提供的实际订阅地址。
+
+截至 2026-10-22，官方页面显示 0.9.0 增加了分享链接入口及自定义配置功能，同时移除自定义覆写，原内容需改建为自定义配置，以官方页面为准。项目资料入口见 [FlClash 官方发布页](https://github.com/chen08209/FlClash/releases)，入口变化和旧功能名称需要对照阅读。
+
+README 的功能列表并没有提供每一步的全部按钮文字。列出协议入口不代表已经取得所有分享格式的解析范围，因此这里不另外生成参数或扩大兼容结论。
+
+### Shadowrocket 的规则文件与订阅历史分开看
+
+App Store 描述说明规则文件能从 URL、iCloud Drive 取得。版本历史还提过订阅导入，所以可以保留有该功能的描述，不能仅因前者存在就替后者写完整操作流程。
+
+历史记录另有订阅显示隐藏、到期日修复及链接域名解析等变化。这些条目说明资料来自版本历史，不等于当前界面的按钮清单，原记录可沿 [Shadowrocket 的 App Store 页面（美区）](https://apps.apple.com/us/app/shadowrocket/id932747118) 阅读。
+
+版本历史提及订阅服务器的显示与隐藏、到期日修复，以及订阅链接的域名解析，不等于本章已经列全可导入的格式。它们也没有提供全部格式开始支持的版本，不能由某条修复日期反推最早支持时间。
+
+### 内容分类只用来区分本章的入口
+
+前文已解释内容的 yaml、uri、base64 与获取类型 http、file、inline，这里只说明两组分类不能等同于图形界面入口。定义与协议范围不再重列，字段资料仍见 [mihomo 官方文档站](https://wiki.metacubex.one/)。
+
+FlClash 列有实时查看连接、请求、DNS 与日志的功能，可以分别阅读这些记录的类型。功能列表不提供通用的导入成功判据，也不能由某一类记录存在就确认另一客户端的读取状态。
+
+导入后，Verge 文档继续区分规则、全局与直连，分别涉及规则匹配、手动选择及本地网络。入口对照表不替模式作选择，复制了文件或产生空配置，也不能当成已经完成后续模式环节。
+
+延伸阅读：[Clash 机场推荐与订阅选择](https://www.clashmetahub.net/guides/clash-airport/)、[小火箭机场推荐](https://www.clashmetahub.net/guides/shadowrocket-airport/)。
+
+## 排障速查表：官方资料里写明的几类故障与处理
+
+这张表把现象、已有解释和处理条件分开，范围限于官方资料明确涉及的项目。没有原因文字的地方只保留处理顺序，不从错误提示推定证书、账号或运营状态。
+
+### 对照现象阅读官方处理条件
+
+| 现象 | 官方资料里写的原因 | 官方资料里写的做法 |
+|---|---|---|
+| client error(Connect) | 资料没有在此指定单一根因 | 先换用另一种配置导入方式 |
+| 链接配置方式仍报错 | 文档给出后续选项，未将错误直接归因 | 文档列“允许无效证书（危险）”选项，随后保存重试；此项有安全风险 |
+| 某程序未采用系统代理 | 系统代理依赖应用读取约定，不能承载 UDP 代理；TUN 涉及虚拟网卡 | 阅读系统代理与 TUN 的分别说明，再对应程序所需的 TCP、UDP 条件 |
+| 开启防火墙后相关 TUN 栈不可用 | mihomo 文档对 system、mixed 写有这一限制 | 按文档为实际内核程序设置防火墙放行 |
+| 两份资料给出不同默认 stack | Verge 文档写 GVisor，mihomo 文档写 mips | 两种来源并排保留，依据实际版本和相应页面核对 |
+| 不同客户端取得的配置需确认 | 服务端按请求头中的 User-Agent 识别客户端，返回相应配置 | 文档提供携带 UA 请求，检查是否返回 YAML 的思路 |
+| HTTP、SOCKS、Mixed 接入未启用 TLS | 这是文档的公网暴露提醒，不是已确定发生的故障原因 | 不将这些缺少 TLS 的入站直接开放至公网 |
+
+导入提示与证书选项来自 [Clash Verge Rev 官方文档站](https://clash-verge-rev.github.io/)。内核配置边界另看 [mihomo 官方文档站](https://wiki.metacubex.one/)，不能仅凭一张表把本机现象确认成某一行原因。
+
+### 导入错误先按顺序读，不替选项省略风险
+
+client error(Connect) 对应的官方起点是换一种导入方式，不是先宣告配置损坏。文档没有在该提示下确定唯一根因，本表同样不补诊断结论。
+
+链接配置继续报错时，文档才列出无效证书选项及保存重试。安全风险要与选项同时阅读，不能把它缩写成无条件放宽校验的默认操作。
+
+### 应用、虚拟网卡与服务分别核对
+
+某个应用是否读取系统代理，和 TUN 通过虚拟网卡处理 TCP、UDP，是官方文档中的不同描述。此处只用这层区别定位阅读方向，不复述已有问答，也不保证换模式就能解决任意应用的连接问题。
+
+服务模式由独立服务进程启动内核，使 TUN 可以在非管理员身份下启动。退出 Verge 后服务仍在后台，不能把窗口关闭当成服务已经结束的依据。
+
+### 防火墙说明与默认堆栈并列保留出处
+
+Verge 资料列出需要放行的内核为 verge-mihomo 和 verge-mihomo-alpha。system、mixed 的条件来自 mihomo 的 TUN 文档，不把这两种栈的限制扩展到没有说明的其他栈。
+
+截至 2026-10-22，官方页面显示 Verge 文档将默认堆栈写为 GVisor，而 mihomo 文档写 mips，以官方页面为准。这里不把两处拼成一个统一默认，仍以实际版本为准。
+
+### 返回内容检查和公网接入不是同一种排查
+
+UA 检查针对服务端返回了什么，不能只按链接相同就假定不同客户端取得内容相同。这里只保留文档的检查目标，不列请求命令，也不把结果未取得写成已经返回 YAML。
+
+文档的 UA 检查思路举了 PowerShell 和 curl 这类请求工具，但本章不列具体命令。要分清的是请求标识与收到的内容，不从同一个地址推定每次返回格式相同。
+
+默认 stack 的资料差异也不是本机故障诊断，只说明两处文档给出了不同默认。当前配置采用哪个栈，要回到实际版本及其文档，不能将默认名称直接填进所有异常的原因列。
+
+无 TLS 的接入提醒限定在 HTTP、SOCKS 与 Mixed 面向公网的情况。它不是对其他入站或任意客户端的通用结论，也不提供开放公网的配置教程。
+
+延伸阅读：[Clash 机场推荐与订阅选择](https://www.clashmetahub.net/guides/clash-airport/)、[机场跑路怎么办与自查方法](https://www.clashmetahub.net/guides/airport-runaway-guide/)。
+
 ## 术语速查
 
 | 词条 | 含义 |
@@ -587,6 +1176,14 @@ TUN 模式所需的虚拟网卡驱动被系统阻止。请右键以管理员身�
 - **给方法而不是结论。** 例如线路类型可以用 `BestTrace`/`mtr` 路由追踪自行验证，解锁状态可以用开源脚本 [RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) 自测。
 
 发现错误或有补充，欢迎提 issue 或 PR。
+
+## 更新记录
+
+### 2026-10-22
+
+- 新增十二个章节：按预算分档速查、按使用场景选、从付款到连上的六个步骤、新协议速查、Clash Verge 与 mihomo 认哪些协议和订阅格式、免费与公益机场怎么看、纯净 IP/原生 IP/家宽 IP 三个说法，以及梯子/机场/VPN 三个说法、免费梯子与免费 VPN 的选项、按设备选客户端、各客户端怎么导入配置、排障速查表。
+- 对比表中的起价、线路名称、协议栏和更新日期，按清单当前资料重新核对。
+- 新章节只整理核对办法和官方文档、官方页面里写明的内容，没有加入速度或体验结论。
 
 ## 相关链接
 
