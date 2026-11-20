@@ -1,6 +1,6 @@
 # 机场推荐 2026 · Clash 机场选购清单与排错知识库
 
-22 家机场的**公示规格横向对比**（价格 / 线路类型 / 协议），
+23 家机场的**公示规格横向对比**（价格 / 线路类型 / 协议），
 外加 **266 条问答**与 **10 个术语词条**的选购排错资料。
 全部纯文本，可搜索、可 fork、可提 issue 补充。
 
@@ -34,8 +34,9 @@
 | 20 | [WgetCloud](https://www.clashmetahub.net/reviews/wgetcloud-5/) | 28.0 元起 | 多机房集群负载（官网未标注专线类型） | Trojan |
 | 21 | [MDSS Cloud](https://www.clashmetahub.net/reviews/mdss-cloud-8/) | 12.0 元起 | 纯内网 IPLC 专线 | ShadowsocksR / VMess |
 | 22 | [FlowerCloud (花云)](https://www.clashmetahub.net/reviews/flowercloud/) | 25.0 元起 | BGP 入口专线 | Trojan / SSR |
+| 23 | [月兔 VPN（Tsuki）](https://buddahs-temptation.win/tsuki) | 12 元/30天 | 公网中转 | Hysteria2 |
 
-价格截至 2026-10-22，为站内记录的最低月付档，部分是小流量或限时套餐，请以各家官网下单页为准。
+价格截至 2026-10-22，为站内记录的最低月付档，部分是小流量或限时套餐，请以各家官网下单页为准。月兔规格及价目由运营方提供，见[价目表（2026-11-20）](docs/tsuki-price-2026-11-20.md)。
 
 网页版支持按价格、线路、协议筛选：https://www.clashmetahub.net/compare/
 
@@ -569,7 +570,7 @@ TUN 模式所需的虚拟网卡驱动被系统阻止。请右键以管理员身�
 
 ### 15 元及以下：先读额度与扣费
 
-写这一节时（2026-10-22），这一档列有6家，其中5家的线路名称包含专线、IEPL或IPLC字样。协议栏出现Hysteria2、TUIC等，名字不代表使用表现。
+写这一节时（2026-11-20），这一档列有7家，其中5家的线路名称包含专线、IEPL或IPLC字样。协议栏出现Hysteria2、TUIC等，名字不代表使用表现。
 
 | 机场 | 官方标称起价 | 线路类型 | 协议 |
 | --- | --- | --- | --- |
@@ -579,6 +580,7 @@ TUN 模式所需的虚拟网卡驱动被系统阻止。请右键以管理员身�
 | [速界](https://www.clashmetahub.net/reviews/brand-29/) | 15.0 元起 | BGP 中转 / IPLC | V2Ray / SSR |
 | [山水云](https://www.clashmetahub.net/reviews/shanshuicloud-45/) | 12 元起 | 优质直连公网 | Vmess |
 | [MDSS Cloud](https://www.clashmetahub.net/reviews/mdss-cloud-8/) | 12.0 元起 | 纯内网 IPLC 专线 | ShadowsocksR / VMess |
+| [月兔 VPN（Tsuki）](https://buddahs-temptation.win/tsuki) | 12 元/30天 | 公网中转 | Hysteria2 |
 
 - 要核对的是每个出口的扣费倍率，以及套餐何时恢复额度。这两项会影响同一标称流量能怎样使用，不能从起价代为确定。
 - 再把低价的限制逐项找出，包括限量、限速或线路标称的具体口径。金额低并不直接给出原因，缺少的条件需由运营方解释。
@@ -1178,6 +1180,10 @@ UA 检查针对服务端返回了什么，不能只按链接相同就假定不�
 发现错误或有补充，欢迎提 issue 或 PR。
 
 ## 更新记录
+
+### 2026-11-20
+
+- 新增月兔 VPN（Tsuki）：12 元/30天，公网中转，Hysteria2（UDP）。见[价目表（2026-11-20）](docs/tsuki-price-2026-11-20.md)。
 
 ### 2026-10-22
 
