@@ -34,13 +34,13 @@
 | 20 | [WgetCloud](https://www.clashmetahub.net/reviews/wgetcloud-5/) | 28.0 元起 | 多机房集群负载（官网未标注专线类型） | Trojan |
 | 21 | [MDSS Cloud](https://www.clashmetahub.net/reviews/mdss-cloud-8/) | 12.0 元起 | 纯内网 IPLC 专线 | ShadowsocksR / VMess |
 | 22 | [FlowerCloud (花云)](https://www.clashmetahub.net/reviews/flowercloud/) | 25.0 元起 | BGP 入口专线 | Trojan / SSR |
-| 23 | [月兔 VPN（Tsuki）](https://buddahs-temptation.win/tsuki) | 12 元/30天 | 官方未标注 | 官方未标注 |
+| 23 | [月兔 VPN（Tsuki）](https://buddahs-temptation.win/tsuki) | 12 元/30天 | 公网中转 | Hysteria2 |
 
-价格截至 2026-10-22，为站内记录的最低月付档，部分是小流量或限时套餐，请以各家官网下单页为准。月兔 VPN（Tsuki）的 12 元/30天及分档总价来自品牌方 2026-11-20 提供的价目，不是公开网页抓取，见[价目表](docs/tsuki-price-2026-11-20.md)。
+价格截至 2026-10-22，为站内记录的最低月付档，部分是小流量或限时套餐，请以各家官网下单页为准。月兔 VPN（Tsuki）为 12 元/30天、公网中转、Hysteria2（UDP），由品牌方提供；分档总价见[价目表](docs/tsuki-price-2026-11-20.md)，价目图日期 2026-11-20，不是公开网页抓取。
 
 网页版支持按价格、线路、协议筛选：https://www.clashmetahub.net/compare/
 
-**表中除月兔 VPN（Tsuki）的起价外，每一项都是运营方官网公示的内容**，不是测试结果。
+**表中除月兔 VPN（Tsuki）一行外，每一项都是运营方官网公示的内容**，不是测试结果。
 线路类型（IEPL / IPLC / 中转 / 直连）可以用 `BestTrace` 或 `mtr` 路由追踪自行核实——
 标称专线但路由里出现公网跳数的，说明标称与实际不符。
 
@@ -580,7 +580,7 @@ TUN 模式所需的虚拟网卡驱动被系统阻止。请右键以管理员身�
 | [速界](https://www.clashmetahub.net/reviews/brand-29/) | 15.0 元起 | BGP 中转 / IPLC | V2Ray / SSR |
 | [山水云](https://www.clashmetahub.net/reviews/shanshuicloud-45/) | 12 元起 | 优质直连公网 | Vmess |
 | [MDSS Cloud](https://www.clashmetahub.net/reviews/mdss-cloud-8/) | 12.0 元起 | 纯内网 IPLC 专线 | ShadowsocksR / VMess |
-| [月兔 VPN（Tsuki）](https://buddahs-temptation.win/tsuki) | 12 元/30天 | 官方未标注 | 官方未标注 |
+| [月兔 VPN（Tsuki）](https://buddahs-temptation.win/tsuki) | 12 元/30天 | 公网中转 | Hysteria2 |
 
 - 要核对的是每个出口的扣费倍率，以及套餐何时恢复额度。这两项会影响同一标称流量能怎样使用，不能从起价代为确定。
 - 再把低价的限制逐项找出，包括限量、限速或线路标称的具体口径。金额低并不直接给出原因，缺少的条件需由运营方解释。
@@ -1184,7 +1184,7 @@ UA 检查针对服务端返回了什么，不能只按链接相同就假定不�
 ### 2026-11-20
 
 - 新增月兔 VPN（Tsuki）官网入口。
-- 月兔 VPN（Tsuki）起价记为 12 元/30天，依据品牌方同日提供的价目。
+- 月兔 VPN（Tsuki）：12 元/30天，公网中转，Hysteria2（UDP）。价格与协议依据品牌方同日价目，线路由品牌方确认。
 
 ### 2026-10-22
 

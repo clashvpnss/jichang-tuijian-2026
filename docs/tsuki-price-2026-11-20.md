@@ -2,7 +2,7 @@
 
 官网：https://buddahs-temptation.win/tsuki
 
-下图由品牌方于 2026-11-20 提供，不是公开网页抓取。
+下图由品牌方于 2026-11-20 提供，不是公开网页抓取。线路类型为公网中转，由品牌方确认。协议为 Hysteria2（UDP），写在该价目图上。
 
 ![品牌方 2026-11-20 提供的月兔 VPN（Tsuki）价目](assets/tsuki-price-2026-11-20.png)
 
